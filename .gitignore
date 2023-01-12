@@ -1,0 +1,7 @@
+backend/fakeca-core/target
+backend/fakeca-core/.idea
+backend/fakeca-bouncycastle/target
+backend/fakeca-bouncycastle/.idea
+backend/fakeca-rest/target
+backend/fakeca-rest/.idea
+backend/fakeca-rest/*.cer
